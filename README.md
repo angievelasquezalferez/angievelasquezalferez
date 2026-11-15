@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**angievelasquezalferez/angievelasquezalferez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Angie Velasquez
 
-Here are some ideas to get you started:
+I'm an economics student at CSULB interested in electricity data and energy markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hot Limit | MarinaHacks Social Good winner
+
+Our team built an app that helps people in LA County find nearby places
+to cool down and get drinking water during extreme heat.
+
+**My contribution** — I cleaned up the LA County census tract data from CalEnviroScreen 4.0. I built an interactive map with JS and Leaflet so you could explore how pollution and other environmental burdens vary from one neighborhood to the next.
+
+
+
+[Devpost submission](https://devpost.com/software/hot-limit) · [Team code](https://github.com/mrllita/Hot-Limit)
+
